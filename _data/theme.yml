@@ -7,7 +7,7 @@ highlight_color: '#a50101'
 social:
   github: kirkins
   #bitbucket: philipj
-  hacker_news: swanson
+  #hacker_news: swanson
   stackexchange: 404757
   stackoverflow: 773263
   #twitter: _swanson
@@ -15,7 +15,7 @@ social:
   #tumblr: animalygifs
   #linkedin: philipjagielski
   #gplus: 110552447039675960964
-  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
+  gravatar: northernavenger
   #flickr: johndoe
 
 # "Hi, I'm _______"
