@@ -11,7 +11,7 @@ categories:
 
 ---
 
-[Facebook Demo](https://www.facebook.com/AIMLBot) &#124; [Github Code](https://github.com/kirkins/Claudia-AIML-Bot)
+[Facebook Demo](https://www.facebook.com/AIMLBot) &#124; [Github Code](https://github.com/kirkins/Claudia-AIML-Bot) &#124; [Version 2](https://github.com/kirkins/Claudia-AIML-Bot-2)
 
 A node.js app using Claudia. Allows users to chat with a bot on facebook. Edit responses/bot.aiml to change responses.
 
