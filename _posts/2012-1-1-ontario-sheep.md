@@ -8,7 +8,7 @@ categories:
 # Ontario Sheep
 After finishing my summer position at Fanshawe College and doing some freelance work in London I moved to Guelph, Ontario.
 
-In Guelph I found a full-time position as a web developer. My achievements at Ontario Sheep included:
+In Guelph I found a full-time position as a web developer. My achievements at [Ontario Sheep](http://www.ontariosheep.org/) included:
 
 * Converting the organiztion's print magazine to a digital format.
 * Improving and regularly updating the organization's website.
