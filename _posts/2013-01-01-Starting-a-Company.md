@@ -13,8 +13,8 @@ where I could access some of the countries best minds in regards to software eng
 Initially my company (e.g. freelancing with a name) focused on what I had done after college, custom Wordpress
 development for small businesses. Some of my clients included:
 
-* http://www.uk2canadapensiontransfers.com/
-* http://sobersteering.com/
+* [UK2Canada Pensions](http://www.uk2canadapensiontransfers.com/)
+* [Sober Steering](http://sobersteering.com/)
 * lesser known companies no longer in existence
 
 However being so close to BlackBerry HQ I ended up finding several opprotunities to make money developing apps.
