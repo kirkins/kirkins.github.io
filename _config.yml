@@ -3,3 +3,5 @@ highlighter: pygments
 url: https://kirkins.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+gems:
+  - jemoji
