@@ -7,7 +7,7 @@ categories:
 
 # Hack Chat Games mod
 
-Switching back and forth between two tabs to play myself at tic-tac-toe using hack chat, an open-source chat application written in node.js.
+_Switching back and forth between two tabs to play myself at tic-tac-toe using hack chat, an open-source chat application written in node.js._
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NwusOLDp60s" frameborder="0" allowfullscreen></iframe>
 
