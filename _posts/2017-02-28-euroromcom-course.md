@@ -7,6 +7,8 @@ categories:
 
 # EuroRomCom
 
+🇪🇺 🇷🇴 🇵🇹 🇮🇹 🇪🇸 🇫🇷 
+
 [Github README](https://github.com/kirkins/EuroRomCom/blob/master/README.md)
 
 A language course with data being copied from a textbook. Includes auto-generated [word list](https://kirkins.github.io/EuroRomCom/activities/displayTable/index.html?list=completely-pan-romance) and [quiz](https://kirkins.github.io/EuroRomCom/activities/quiz/).
