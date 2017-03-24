@@ -7,7 +7,7 @@ categories:
 
 # EuroRomCom
 
-:EU: :RO: :PT: :IT: :ES: :FR:
+:eu: :romania: :portugal: :it: :es: :fr:
 
 [Github README](https://github.com/kirkins/EuroRomCom/blob/master/README.md)
 
