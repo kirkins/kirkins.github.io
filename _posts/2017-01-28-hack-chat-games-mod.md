@@ -13,7 +13,7 @@ _Switching back and forth between two tabs to play myself at tic-tac-toe using h
 
 ---
 
-[Github code](https://github.com/kirkins/hack.chat.games) &#124; [Shortcut to major commit](https://github.com/kirkins/hack.chat.games/commit/b688e27a0a52cd7a9348dae85fbd0d879e11d219)
+[Github code](https://github.com/kirkins/hack.chat.games) &#124; [Diff Summary](https://github.com/AndrewBelt/hack.chat/compare/master...kirkins:master)
 
 This is a modification I made to an existing node.js app called hack chat. The mod allows people in the chat room to
 challenge each other to tic-tac-toe. All users in room can watch the game live. Multiple games can be played in single
