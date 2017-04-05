@@ -16,8 +16,6 @@ back-end, push notifications, website, and apps on 3 platforms.
 We originally started the app at a [BlackBerry app development contest](https://developer.blackberry.com/offers/blackberryjamcamp/)
 where we ended up winning second place.
 
-The startup was later 
-
 ## More articles
 
 * [Rebranded Candid](http://crackberry.com/diaree-gets-rebranded-candid-new-update-now-available)
