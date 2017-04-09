@@ -6,7 +6,7 @@ categories:
 ---
 
 # Evil Chrome Extension
- 👿 Exploring malicious possibilities of chrome extensions to raise awarness.
+Exploring malicious possibilities of chrome extensions to raise awareness.
 
 [Evil Chrome Extension](https://github.com/kirkins/Evil-Chrome-Extension) consists of a chrome extension and server. The extension is
 used for tracking and controlling browsers. The server is used to record information and act as a central point of control: 

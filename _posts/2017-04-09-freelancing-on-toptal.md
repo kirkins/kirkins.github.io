@@ -7,7 +7,7 @@ categories:
 
 # Freelancing on Toptal
 I've decided to give freelancing on toptal a try. Having worked on a lot of open-source mini-projects since my last full-time
-job, I'm looking for opprotunities where I can use my own setup, tools, computer, preferabbly remotely. 
+job, I'm looking for opportunities where I can use my own setup, tools, computer, and preferably from a remote location. 
 
 Toptal seems to offer this and has clients from reputable clients like Airbnb & J.P. Morgan.
 
