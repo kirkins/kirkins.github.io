@@ -7,7 +7,7 @@ categories:
 
 I've decided to give freelancing on [Toptal](https://www.toptal.com/) a try. I've recently been working on a lot of [open-source](https://github.com/kirkins?tab=repositories) and direct contracts. I'm now looking for more opportunities where I can use my own setup, tools, computer, and office.
 
-Toptal seems to offers this and has reputable clients like _Airbnb_, _J.P. Morgan_, and _Udemy_. Getting a contract with companies like these and doing a good job can be a huge boost to one's career.
+[Toptal Web Freelancers Community](https://www.toptal.com/web) seems to offers this and has reputable clients like _Airbnb_, _J.P. Morgan_, and _Udemy_. Getting a contract with companies like these and doing a good job can be a huge boost to one's career.
 
 Doing contracting remotely has a variety of work-life benefits including:
 
