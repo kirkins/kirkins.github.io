@@ -15,7 +15,7 @@ _Module for DuckDuckGo that catches queries of users looking for text to speech 
 
 ---
 
-[Github code](https://github.com/kirkins/hack.chat.games) &#124; [Diff Summary](https://github.com/AndrewBelt/hack.chat/compare/master...kirkins:master)
+[pull request](https://github.com/duckduckgo/zeroclickinfo-goodies/pull/4357) 
 
 This widget consists of a server-side perl script that checks if a query is looking for text to speech.
 
