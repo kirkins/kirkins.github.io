@@ -6,8 +6,6 @@ categories:
 - Javascript
 ---
 
-# Busy.org Contributions
-
 I've been contributing to Busy.org lately, a block-chain based social media site.
 
 Through Utopian.io I've been able to gain STEEM tokens for my work.
