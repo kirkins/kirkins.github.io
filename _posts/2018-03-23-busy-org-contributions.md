@@ -18,6 +18,7 @@ These are my contributions on Utopian.io to date:
 - [Fix issues navigating profile page on busy](https://busy.org/@kirkins/fix-issues-navigating-profile-page-on-busy)
 - [Fix contribution button on Utopian.io](https://busy.org/@kirkins/fix-contribution-button-on-front-page)
 - [Don't auto-upvote quickpost](https://busy.org/@kirkins/access-settings-to-see-if-should-upvote-on-quickpost)
+- [Improve meta-description for sharing on social](https://busy.org/@kirkins/busy-org-improve-meta-description-for-sharing-on-social)
 
 Also I'm proud to say that I recieved a mention in the Busy.org V2.4 update post:
 
